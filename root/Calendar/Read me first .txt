@@ -7,4 +7,4 @@ after copying the uploaded files use the following line to make calendar appear 
 give an ID to iframe tag to change the positions with css if needed
 (see the test.html file to have an Idea how it looks)
 
-keep in mind that files may be change in near future as I am still working on the thing and do not update these fiels
+keep in mind that files may be change in near future as I am still working on the thing and do not update these files.
