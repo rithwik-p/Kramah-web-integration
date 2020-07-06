@@ -1,6 +1,6 @@
 who ever making dashboard 
 
-after copying the uploaded files use the following line to make calendar appear on the page
+after copying the uploaded files use the following line to make calendar appear on the html page you've been working on
 
 <iframe src="calendar.html" height="600" width="600"></iframe>
 
